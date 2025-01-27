@@ -1,0 +1,6 @@
+[submodule "213"]
+	path = 213
+	url = git@github.com:sourcegit-scm/sourcegit.git
+[submodule "22222"]
+	path = 22222
+	url = git@github.com:sourcegit-scm/sourcegit2.git
